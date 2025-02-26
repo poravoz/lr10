@@ -1,1 +1,1 @@
-# lr10
+# game_slots
